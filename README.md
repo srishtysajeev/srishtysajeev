@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Srishty, a budding software dev / engineer! 
+I'll be posting a few of my passion projects on here so stay tuned✨
 <!--
 **srishtysajeev/srishtysajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
