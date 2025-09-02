@@ -8,7 +8,7 @@ I'll be posting a few of my passion projects on here so stay tuned✨
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Here is Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+
 <!--
 **srishtysajeev/srishtysajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
